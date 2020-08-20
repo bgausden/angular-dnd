@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dnd"
+    }
+  },
+  "defaultProject": "dnd",
+  "cli": {
+    "analytics": "600a5c50-b190-492a-b540-315ab1df006b"
+  }
 }
